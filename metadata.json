@@ -1,0 +1,8 @@
+{
+  "name": "Cyber Chatbot AI",
+  "description": "A futuristic gaming-themed AI assistant powered by Gemini 3, featuring real-time chat and high-quality image generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
